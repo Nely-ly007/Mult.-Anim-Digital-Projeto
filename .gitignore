@@ -1,3 +1,4 @@
+cat > .gitignore << 'EOF'
 # =============== #
 # Unity generated #
 # =============== #
@@ -8,6 +9,12 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+
+# ============== #
+# Unity Packages #
+# ============== #
+/[Pp]ackages/*/
+!/[Pp]ackages/manifest.json
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
@@ -34,8 +41,9 @@ ExportedObj/
 ehthumbs.db
 [Tt]humbs.db
 
-# ============= #
-# Unity Packages #
-# ============= #
-/[Pp]ackages/*/
-!/[Pp]ackages/manifest.json
+# =========== #
+# Unity Meta  #
+# =========== #
+*.meta
+!*.meta
+EOF
