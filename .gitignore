@@ -1,4 +1,6 @@
-# Unity
+# =============== #
+# Unity generated #
+# =============== #
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -7,13 +9,33 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
-# VS
-*.csproj
-*.unityproj
-*.sln
-*.suo
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
 *.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
 
-# OS
+# ============ #
+# OS generated #
+# ============ #
 .DS_Store
-Thumbs.db
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+
+# ============= #
+# Unity Packages #
+# ============= #
+/[Pp]ackages/*/
+!/[Pp]ackages/manifest.json
