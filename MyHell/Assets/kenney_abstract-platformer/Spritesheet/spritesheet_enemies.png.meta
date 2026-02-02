@@ -735,7 +735,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spritesheet_enemies_0: 9128649472322045938
+      spritesheet_enemies_1: 6109263987078402175
+      spritesheet_enemies_10: 9209502623412851429
+      spritesheet_enemies_11: -9104941755966664197
+      spritesheet_enemies_12: 7925522885140249611
+      spritesheet_enemies_13: 5474153766058879034
+      spritesheet_enemies_14: -8910364851905446463
+      spritesheet_enemies_15: -8429358257427955601
+      spritesheet_enemies_16: 1659889319377078165
+      spritesheet_enemies_17: -7118738110122857603
+      spritesheet_enemies_18: -4174242650787226205
+      spritesheet_enemies_19: -2246804804392454685
+      spritesheet_enemies_2: 3919647977461896085
+      spritesheet_enemies_20: 1142953080573688976
+      spritesheet_enemies_21: -3028714126569234196
+      spritesheet_enemies_22: -447052439884736548
+      spritesheet_enemies_23: 7158062596903625656
+      spritesheet_enemies_3: 7454244456074240545
+      spritesheet_enemies_4: 6681734020997136816
+      spritesheet_enemies_5: 4129203520044859272
+      spritesheet_enemies_6: -8445709700532192620
+      spritesheet_enemies_7: -372778437775962894
+      spritesheet_enemies_8: 4418005393109676608
+      spritesheet_enemies_9: -2486701741819592134
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

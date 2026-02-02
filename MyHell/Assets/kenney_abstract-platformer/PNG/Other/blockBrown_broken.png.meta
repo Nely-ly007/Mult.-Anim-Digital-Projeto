@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      blockBrown_broken_0: 3096239983857363524
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

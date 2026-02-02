@@ -860,7 +860,36 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tilesheet_complete_2X_0: -4963637753210773525
+      tilesheet_complete_2X_1: 3491394333086213026
+      tilesheet_complete_2X_10: 6918021283344064696
+      tilesheet_complete_2X_11: 6085328721906755675
+      tilesheet_complete_2X_12: -3084824950052582700
+      tilesheet_complete_2X_13: 9222970325110602553
+      tilesheet_complete_2X_14: 8098229299514664489
+      tilesheet_complete_2X_15: 4141518541055776399
+      tilesheet_complete_2X_16: 4529820586530146014
+      tilesheet_complete_2X_17: 8957424851795435883
+      tilesheet_complete_2X_18: 2415923786285696512
+      tilesheet_complete_2X_19: 6222719632305566055
+      tilesheet_complete_2X_2: -5372515969369646167
+      tilesheet_complete_2X_20: 1396797237162518899
+      tilesheet_complete_2X_21: -4276639548249835358
+      tilesheet_complete_2X_22: 5065447763561833541
+      tilesheet_complete_2X_23: -7368188062455055730
+      tilesheet_complete_2X_24: 4847955161554565373
+      tilesheet_complete_2X_25: 3575642599253789430
+      tilesheet_complete_2X_26: 8005761298175442520
+      tilesheet_complete_2X_27: 7065233464536916952
+      tilesheet_complete_2X_28: 4349146843839417573
+      tilesheet_complete_2X_3: -5203057135371293832
+      tilesheet_complete_2X_4: -2619200951930777889
+      tilesheet_complete_2X_5: 4997580694265992320
+      tilesheet_complete_2X_6: 7867122170131252791
+      tilesheet_complete_2X_7: -4321953622573335964
+      tilesheet_complete_2X_8: -5587227159833872944
+      tilesheet_complete_2X_9: 6185106458766086459
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
