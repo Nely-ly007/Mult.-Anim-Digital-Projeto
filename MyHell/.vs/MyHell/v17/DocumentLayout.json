@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\20231170150016\\Documents\\GitHub\\Mult.-Anim-Digital-Projeto\\MyHell\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\20231170150016\\Documents\\GitHub\\Mult.-Anim-Digital-Projeto\\MyHell\\Assets\\scripts\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\20231170150016\\Documents\\GitHub\\Mult.-Anim-Digital-Projeto\\MyHell\\Assets\\scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\20231170150016\\Documents\\GitHub\\Mult.-Anim-Digital-Projeto\\MyHell\\Assets\\Prefabs\\EnemyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Prefabs\\EnemyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\20231170150016\\Documents\\GitHub\\Mult.-Anim-Digital-Projeto\\MyHell\\Assets\\scripts\\EnemyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\EnemyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\20231170150016\\Documents\\GitHub\\Mult.-Anim-Digital-Projeto\\MyHell\\Assets\\AI\\FollowEnemyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\AI\\FollowEnemyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\Users\\20231170150016\\Documents\\GitHub\\Mult.-Anim-Digital-Projeto\\MyHell\\Assets\\scripts\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\PlayerController.cs",
-              "ToolTip": "C:\\Users\\20231170150016\\Documents\\GitHub\\Mult.-Anim-Digital-Projeto\\MyHell\\Assets\\scripts\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\scripts\\PlayerController.cs",
-              "ViewState": "AgIAAFYCAAAAAAAAAAArwGoCAAANAAAAAAAAAA==",
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\20231170150016\\Documents\\GitHub\\Mult.-Anim-Digital-Projeto\\MyHell\\Assets\\scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\20231170150016\\Documents\\GitHub\\Mult.-Anim-Digital-Projeto\\MyHell\\Assets\\scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\scripts\\Player.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T18:49:47.639Z",
+              "WhenOpened": "2026-02-02T19:02:04.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EnemyController.cs",
-              "DocumentMoniker": "C:\\Users\\20231170150016\\Documents\\GitHub\\Mult.-Anim-Digital-Projeto\\MyHell\\Assets\\Prefabs\\EnemyController.cs",
-              "RelativeDocumentMoniker": "Assets\\Prefabs\\EnemyController.cs",
-              "ToolTip": "C:\\Users\\20231170150016\\Documents\\GitHub\\Mult.-Anim-Digital-Projeto\\MyHell\\Assets\\Prefabs\\EnemyController.cs",
-              "RelativeToolTip": "Assets\\Prefabs\\EnemyController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\20231170150016\\Documents\\GitHub\\Mult.-Anim-Digital-Projeto\\MyHell\\Assets\\scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\20231170150016\\Documents\\GitHub\\Mult.-Anim-Digital-Projeto\\MyHell\\Assets\\scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\scripts\\PlayerController.cs",
+              "ViewState": "AgIAAJkBAAAAAAAAAAAqwMsBAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T18:39:01.834Z",
+              "WhenOpened": "2026-02-02T18:44:24.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EnemyController.cs",
-              "DocumentMoniker": "C:\\Users\\20231170150016\\Documents\\GitHub\\Mult.-Anim-Digital-Projeto\\MyHell\\Assets\\scripts\\EnemyController.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\EnemyController.cs",
-              "ToolTip": "C:\\Users\\20231170150016\\Documents\\GitHub\\Mult.-Anim-Digital-Projeto\\MyHell\\Assets\\scripts\\EnemyController.cs",
-              "RelativeToolTip": "Assets\\scripts\\EnemyController.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAiwLQAAAABAAAAAAAAAA==",
+              "Title": "FollowEnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\20231170150016\\Documents\\GitHub\\Mult.-Anim-Digital-Projeto\\MyHell\\Assets\\AI\\FollowEnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\AI\\FollowEnemyController.cs",
+              "ToolTip": "C:\\Users\\20231170150016\\Documents\\GitHub\\Mult.-Anim-Digital-Projeto\\MyHell\\Assets\\AI\\FollowEnemyController.cs",
+              "RelativeToolTip": "Assets\\AI\\FollowEnemyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T18:37:26.422Z",
+              "WhenOpened": "2026-02-02T18:25:10.768Z",
               "EditorCaption": ""
             }
           ]
