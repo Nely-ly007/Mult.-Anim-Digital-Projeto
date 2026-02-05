@@ -86,7 +86,7 @@ public class GameManager : MonoBehaviour
         else
         {
             PlayerController.transform.position = LastCheckpoint.transform.position;
-            PlayerController.ResetPlayer();
+            //PlayerController.ResetPlayer();
         }
         
     }
@@ -134,7 +134,7 @@ public class GameManager : MonoBehaviour
         {
             LastCheckpoint = otherGameObject;
             LastCheckpoint.GetComponent<Animator>().Play("Active");
-            PlayerController.ValidCheckpointSound();
+            //PlayerController.ValidCheckpointSound();
         } 
         else if (otherGameObject != LastCheckpoint)
         {
@@ -142,7 +142,7 @@ public class GameManager : MonoBehaviour
 
             LastCheckpoint = otherGameObject;
             LastCheckpoint.GetComponent<Animator>().Play("Active");
-            PlayerController.ValidCheckpointSound();
+            //PlayerController.ValidCheckpointSound();
         }
     }
 }

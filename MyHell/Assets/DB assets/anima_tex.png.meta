@@ -1,25 +1,25 @@
 fileFormatVersion: 2
-guid: 674a1fa22c09a794b90e41f7785ed4b1
+guid: 8fd1005e1d0f979488ff8a2d274bfe45
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8940173187146480883
-    second: MultIDLE_tex_0
+      213: 2720825010425686217
+    second: anima_tex_0
   - first:
-      213: 5966742909055869796
-    second: MultIDLE_tex_1
+      213: -1791183152218651899
+    second: anima_tex_1
   - first:
-      213: -3999252419529081351
-    second: MultIDLE_tex_2
+      213: -1576717724050508176
+    second: anima_tex_2
   - first:
-      213: -2718819176753442151
-    second: MultIDLE_tex_3
+      213: 8582359057522706883
+    second: anima_tex_3
   - first:
-      213: -2394840448381187949
-    second: MultIDLE_tex_4
+      213: -3088179459877404787
+    second: anima_tex_4
   - first:
-      213: 8330242523904603163
-    second: MultIDLE_tex_5
+      213: -5095015841874441866
+    second: anima_tex_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -141,7 +141,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MultIDLE_tex_0
+      name: anima_tex_0
       rect:
         serializedVersion: 2
         x: 3
@@ -156,14 +156,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d0389a57adf1ee380800000000000000
-      internalID: -8940173187146480883
+      spriteID: 9c8eb627eef42c520800000000000000
+      internalID: 2720825010425686217
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MultIDLE_tex_1
+      name: anima_tex_1
       rect:
         serializedVersion: 2
         x: 0
@@ -178,14 +178,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4632b5800112ec250800000000000000
-      internalID: 5966742909055869796
+      spriteID: 503c754c9607427e0800000000000000
+      internalID: -1791183152218651899
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MultIDLE_tex_2
+      name: anima_tex_2
       rect:
         serializedVersion: 2
         x: 177
@@ -200,14 +200,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9fdf8d60d1dcf78c0800000000000000
-      internalID: -3999252419529081351
+      spriteID: 07638e2759f5e1ae0800000000000000
+      internalID: -1576717724050508176
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MultIDLE_tex_3
+      name: anima_tex_3
       rect:
         serializedVersion: 2
         x: 358
@@ -222,14 +222,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 99257191d50d44ad0800000000000000
-      internalID: -2718819176753442151
+      spriteID: 3c94f7e671aaa1770800000000000000
+      internalID: 8582359057522706883
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MultIDLE_tex_4
+      name: anima_tex_4
       rect:
         serializedVersion: 2
         x: 177
@@ -244,14 +244,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3988084fc41d3ced0800000000000000
-      internalID: -2394840448381187949
+      spriteID: d8f7953a4259425d0800000000000000
+      internalID: -3088179459877404787
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MultIDLE_tex_5
+      name: anima_tex_5
       rect:
         serializedVersion: 2
         x: 343
@@ -266,8 +266,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b14ff22a077fa9370800000000000000
-      internalID: 8330242523904603163
+      spriteID: 679061c161eda49b0800000000000000
+      internalID: -5095015841874441866
       vertices: []
       indices: 
       edges: []
@@ -285,13 +285,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      MultIDLE_tex_0: -8940173187146480883
-      MultIDLE_tex_1: 5966742909055869796
-      MultIDLE_tex_2: -3999252419529081351
-      MultIDLE_tex_3: -2718819176753442151
-      MultIDLE_tex_4: -2394840448381187949
-      MultIDLE_tex_5: 8330242523904603163
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
