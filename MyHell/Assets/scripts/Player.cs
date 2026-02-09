@@ -9,7 +9,7 @@ public class Player : MonoBehaviour
 
     public bool noChao = false;
 
-    public bool andando = false;
+    public bool anda = false;
 
     private Rigidbody2D _rigidbody2D;
     private SpriteRenderer _spriteRenderer;
@@ -43,7 +43,7 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        andando = false;
+        anda = false;
 
         if (Input.GetKey(KeyCode.LeftArrow))
         {
@@ -54,7 +54,7 @@ public class Player : MonoBehaviour
 
             if (noChao == true)
             {
-                andando = true;
+                anda = true;
             }
         }
 
@@ -68,7 +68,7 @@ public class Player : MonoBehaviour
 
             if (noChao == true)
             {
-                andando = true;
+                anda = true;
             }
         }
 
@@ -76,10 +76,10 @@ public class Player : MonoBehaviour
         {
             _rigidbody2D.AddForce(new Vector2(0, 1) * focaPulo, ForceMode2D.Impulse);
 
-            Debug.Log("Jump");
+            Debug.Log("pula");
         }
 
-        _animator.SetBool("Andando", andando);
+        _animator.SetBool("Anda", anda);
 
 
     }
